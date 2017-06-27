@@ -20,7 +20,7 @@ kind: "workshop"
 
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
-repository: kstlaurent/2017-06-27-STScI_Workshop
+repository: kstlaurent/2017-06-26-STScI_Workshop
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
